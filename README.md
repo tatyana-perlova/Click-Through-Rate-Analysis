@@ -1,2 +1,2 @@
 # adverity-challenge
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tatyana-perlova/Click-Through-Rate-Analysis/master?filepath=https%3A%2F%2Fgithub.com%2Ftatyana-perlova%2FClick-Through-Rate-Analysis%2Fblob%2Fmaster%2Fnotebooks%2FOutlier-detection.ipynb)
+[![Binder](https://mybinder.org/v2/gh/tatyana-perlova/Click-Through-Rate-Analysis/c700a970f2a20223d5387cc6d2862a646c6e8b1a)
