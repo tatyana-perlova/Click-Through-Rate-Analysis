@@ -2,7 +2,7 @@
 
 This repository contains notebooks for analysis of data from [Kaggle Click-Through-Rate prediction](https://www.kaggle.com/c/avazu-ctr-prediction/data).
 
-In [Data-prep.ipynb](https://github.com/tatyana-perlova/Click-Through-Rate-Analysis/blob/master/notebooks/Data-prep.ipynb) data is aggregated (hourly CTR is calculated) and prepared for analysis. Because the original dataset is too big (~6 Gb) only aggregated dataset has been uploaded into this repository in [data folder](https://github.com/tatyana-perlova/Click-Through-Rate-Analysis/tree/master/data)
+In [Data-prep.ipynb](https://github.com/tatyana-perlova/Click-Through-Rate-Analysis/blob/master/notebooks/Data-prep.ipynb) data is aggregated (hourly CTR is calculated) and prepared for analysis.
 
 Outlier detection is performed in [Outlier-detection.ipynb](https://github.com/tatyana-perlova/Click-Through-Rate-Analysis/blob/master/notebooks/Outlier-detection.ipynb). To open this notebook in an executable environment please click on the logo below. 
 
