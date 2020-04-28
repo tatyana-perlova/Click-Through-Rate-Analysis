@@ -1,2 +1,2 @@
 # Click Through Rate Analysis
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tatyana-perlova/Click-Through-Rate-Analysis/master)
+[![Binder](https://hub.gke.mybinder.org/user/tatyana-perlova-h-rate-analysis-7wpokyqz/notebooks/notebooks/Outlier-detection.ipynb)
