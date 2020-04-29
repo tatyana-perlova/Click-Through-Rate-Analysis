@@ -6,4 +6,4 @@ In [Data-prep.ipynb](https://github.com/tatyana-perlova/Click-Through-Rate-Analy
 
 Outlier detection is performed in [Outlier-detection.ipynb](https://github.com/tatyana-perlova/Click-Through-Rate-Analysis/blob/master/notebooks/Outlier-detection.ipynb). To open this notebook in an executable environment please click on the logo below. 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tatyana-perlova/Click-Through-Rate-Analysis/2f0a37c5062ccf2ec384792a244c8fe7a54e7319)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tatyana-perlova/Click-Through-Rate-Analysis/3b9be018085bc0113ec49a0c2a1e55c7eccf37e1)
